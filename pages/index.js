@@ -3,6 +3,8 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
+//commited on github 
+  
   return (
     <div className={styles.container}>
       <Head>
